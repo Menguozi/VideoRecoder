@@ -1,0 +1,698 @@
+[2020-07-27 10:33:25] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 10:33:32] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 10:34:06] !!!!!!!!!! av_write_trailer ... C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin64/data/movie/video_2020-07-27 103330.mp4 
+[2020-07-27 10:34:06] !!!!!!!!!! av_write_trailer finised! C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin64/data/movie/video_2020-07-27 103330.mp4 
+[2020-07-27 16:06:33] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:06:38] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:06:41] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160637.mp4 
+[2020-07-27 16:06:41] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160637.mp4 
+[2020-07-27 16:06:52] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:07:05] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160651.mp4 
+[2020-07-27 16:07:05] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160651.mp4 
+[2020-07-27 16:09:46] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:09:51] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:09:59] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160950.mp4 
+[2020-07-27 16:09:59] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 160950.mp4 
+[2020-07-27 16:14:26] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:14:31] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:32] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:33] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:34] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:35] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:36] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:37] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=41 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=41 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:38] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=41 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:14:39] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:14:40] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:14:40] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:14:40] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161430.mp4 
+[2020-07-27 16:14:40] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161430.mp4 
+[2020-07-27 16:15:20] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:15:29] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:15:39] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161528.mp4 
+[2020-07-27 16:15:39] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161528.mp4 
+[2020-07-27 16:16:11] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:16:15] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:17] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:18] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:19] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:20] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:21] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:22] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:23] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:24] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:25] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:26] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:26] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:26] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:26] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:26] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161614.mp4 
+[2020-07-27 16:16:26] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161614.mp4 
+[2020-07-27 16:16:48] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:16:54] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=30 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:55] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:56] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:57] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:58] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:16:59] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=31 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:00] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:01] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:02] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=32 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:03] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:04] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:05] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:06] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:07] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=41 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:08] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:09] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:10] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:11] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:12] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=35 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=36 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=37 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=38 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=39 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=40 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=33 
+[2020-07-27 16:17:13] !!!!!!!!!! encode too slow! count=34 
+[2020-07-27 16:17:14] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161653.mp4 
+[2020-07-27 16:17:14] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 161653.mp4 
+[2020-07-27 16:19:31] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:19:44] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:20:32] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:20:51] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:20:56] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:21:04] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 162055.mp4 
+[2020-07-27 16:21:04] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 162055.mp4 
+[2020-07-27 16:25:53] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:29:14] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:29:19] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:29:27] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 162918.avi 
+[2020-07-27 16:29:27] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 162918.avi 
+[2020-07-27 16:31:48] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:31:53] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:32:54] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 163152.avi 
+[2020-07-27 16:32:54] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 163152.avi 
+[2020-07-27 16:33:30] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-27 16:33:36] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-27 16:34:37] !!!!!!!!!! av_write_trailer ... C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 163335.mp4 
+[2020-07-27 16:34:37] !!!!!!!!!! av_write_trailer finised! C:\\Users\\Menguozi\\Desktop\\MyProjects\\VideoRecorder\\bin64\\data\\movie/video_2020-07-27 163335.mp4 

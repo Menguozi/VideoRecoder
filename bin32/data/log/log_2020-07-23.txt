@@ -1,0 +1,15 @@
+[2020-07-23 17:04:20] 
+=======================================
+=======================================
+[App Start...]
+
+ 
+[2020-07-23 17:04:30] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-23 17:04:47] !!!!!!!!!! av_write_trailer ... C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170428.mp4 
+[2020-07-23 17:04:47] !!!!!!!!!! av_write_trailer finised! C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170428.mp4 
+[2020-07-23 17:05:38] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-23 17:05:51] !!!!!!!!!! av_write_trailer ... C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170537.mp4 
+[2020-07-23 17:05:51] !!!!!!!!!! av_write_trailer finised! C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170537.mp4 
+[2020-07-23 17:06:03] !!!!!!!!!! Error encoding audio frame: Resource temporarily unavailable ret=-11 
+[2020-07-23 17:06:19] !!!!!!!!!! av_write_trailer ... C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170602.mp4 
+[2020-07-23 17:06:19] !!!!!!!!!! av_write_trailer finised! C:/Users/Menguozi/Desktop/MyProjects/VideoRecorder/bin32/data/movie/video_2020-07-23 170602.mp4 
